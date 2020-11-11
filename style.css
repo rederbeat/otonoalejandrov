@@ -1,0 +1,59 @@
+.container {
+    text-align: center;
+    background-color: rgb(218, 205, 154);
+    position: absolute;    /*centrado*/
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 500px;
+    top: 10%;
+    border-style: solid;
+    border-right: black;
+    border-top: none;
+    border-bottom: none;
+    
+}
+
+p {
+    text-align: left;
+    margin-left: 3%;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+    
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+body {
+    background-image: url('imagenes/wpp.jpg');
+    background-size: 200px;
+    width: 500px;
+    height: 200px;
+    
+}
+
+
+.secboton {
+    display: block;
+    text-align: center;
+    
+    justify-content: center;
+}
+
+.boton {
+    margin: 0.5em;
+    background-color: rgb(141, 141, 141);
+    color: white;
+    text-decoration: none;
+    border: none;
+    font-size: 1em;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
